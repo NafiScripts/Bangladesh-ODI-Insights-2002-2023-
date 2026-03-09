@@ -10,3 +10,8 @@ Key highlights from my analysis include:
 📌 Identification of top-performing Bangladeshi players
 
 I plan to extend this analysis further, focusing on individual player performances, and I’m eager to share these insights with both the cricket and data analysis communities.
+
+👤 Author
+Rafiul Awal Nafi
+Data Analytics & Machine Learning Enthusiast  
+GitHub: https://github.com/NafiScripts
